@@ -1,0 +1,7 @@
+Tipul evenimentului: Nunta Data evenimentului: 12.08.2022 EEST 2022 Locatia evenimentului: RomaEvents Numarul maxim de invitati: 150 Nume: Popa Prenume: Marian Numar telefon: 07512345678 
+Tipul evenimentului: Majorat Data evenimentului: 20.09.2022 EEST 2022 Locatia evenimentului: Heaven Numarul maxim de invitati: 70 Nume: Ion Prenume: Gheorghe Numar telefon: 07788899000
+Tipul evenimentului: Botez Data evenimentului: Wed Aug 31 00:00:00 EEST 2022 Locatia evenimentului: Royal Numarul maxim de invitati: 100 Nume: Nine Prenume: Andrei Numar telefon: 0761234567 Adresa email: andrei.nane@yahoo  
+Tipul evenimentului: Sedinta Data evenimentului: Sun Jul 17 01:20:12 EEST 2022 Locatia evenimentului: Royal Numarul maxim de invitati: 25 Nume: Nane Prenume: Adi Numar telefon: 0763000000 Adresa email: nane.adi@yahoo 
+Tipul evenimentului: Nunta Data evenimentului: Sat Sep 17 12:20:14 EEST 2022 Locatia evenimentului: Royal Numarul maxim de invitati: 150 Nume: Popa Prenume: Alin Numar telefon: 076123456 Adresa email: alin.popa  
+Tipul evenimentului: Sedinta Data evenimentului: Sun Jul 24 12:25:50 EEST 2022 Locatia evenimentului: RestaurantParc Numarul maxim de invitati: 25 Nume: Ristea Prenume: Andreea Numar telefon: 076880010 Adresa email: andreea.ristea
+ Tipul evenimentului: Aniversare Data evenimentului: Sat Jul 30 17:08:19 EEST 2022 Locatia evenimentului: RomaEvents Numarul maxim de invitati: 50 Nume: Radu Prenume: Ana Numar telefon: 078112345 Adresa email: ana.radu
